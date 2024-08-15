@@ -15,11 +15,11 @@ public class Artist {
 	 
 	 @Id
 	 @Column(name="id")
-	 @MapsId
 	 int id;
 	 
-	 @OneToOne(optional = false)
-	 @JoinColumn(name="id")
+	 @OneToOne
+	 @JoinColumn(name = "id")
+	 @MapsId
 	 User u;
 	 
 	 String about;

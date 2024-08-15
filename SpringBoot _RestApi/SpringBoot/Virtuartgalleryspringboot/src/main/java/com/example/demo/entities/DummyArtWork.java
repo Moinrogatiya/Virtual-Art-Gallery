@@ -2,7 +2,6 @@ package com.example.demo.entities;
 
 public class DummyArtWork {
 
-	int art_id ;
 	float amount;
 	String art_name;
 	String description;
@@ -15,10 +14,9 @@ public class DummyArtWork {
 		super();
 	}
 	
-	public DummyArtWork(int art_id, float amount, String art_name, String description,
+	public DummyArtWork(float amount, String art_name, String description,
 			String dimension, float weight, int u_id, int sub_cat_id) {
 		super();
-		this.art_id = art_id;
 		this.amount = amount;
 		this.art_name = art_name;
 		this.description = description;
@@ -28,12 +26,6 @@ public class DummyArtWork {
 		this.sub_cat_id = sub_cat_id;
 	}
 	
-	public int getArt_id() {
-		return art_id;
-	}
-	public void setArt_id(int art_id) {
-		this.art_id = art_id;
-	}
 	public float getAmount() {
 		return amount;
 	}

@@ -10,6 +10,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.example.demo.entities.ArtSubCategory;
 import com.example.demo.entities.ArtWork;
+import com.example.demo.entities.Artist;
 import com.example.demo.entities.DummyArtWork;
 import com.example.demo.entities.User;
 import com.example.demo.services.ArtSubCategoryService;
@@ -20,8 +21,6 @@ import com.example.demo.services.UserService;
 @RestController
 @RequestMapping("/artwork")
 public class ArtWorkController {
-	@Autowired
-	UserService uservice;
 	
 	@Autowired
 	ArtWorkService artworkService;
@@ -36,21 +35,19 @@ public class ArtWorkController {
 	public ArtWork uploadArtWork(@RequestBody DummyArtWork artwork){
 		
 		int u_id = artwork.getU_id();
-		User u = uservice.getUserById(u_id);
-		//Artist a = artistService.getById(u);
+		Artist a = artistService.getArtistById(u_id);
 		
-		int sub_cat_id = artwork.getSub_cat_id();
-		ArtSubCategory subcat = artSubCategoryService.getById(sub_cat_id);
+		int sc_id = artwork.getSub_cat_id();
+		ArtSubCategory subcat = artSubCategoryService.getById(sc_id);
 		
 		ArtWork aw = new ArtWork();
-		aw.setArt_id(artwork.getArt_id());
 		aw.setAmount(artwork.getAmount());
 		aw.setArt_name(artwork.getArt_name());
 		aw.setDescription(artwork.getDescription());
 		aw.setDimension(artwork.getDimension());
 		aw.setWeight(artwork.getWeight());
 		aw.setSubcat(subcat);
-		//aw.setArtist(a);
+		aw.setArtist(a);
 		
 		return artworkService.uploadArtWork(aw);
 	}

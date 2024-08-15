@@ -1,7 +1,7 @@
 package com.example.demo.entities;
 
 public class DummyProduct{
-	int p_id;
+	
 	String p_name ,description;
 	float price;
 	int  stock_quantity;
@@ -12,10 +12,9 @@ public class DummyProduct{
 		super();
 	}
 	
-	public DummyProduct(int p_id, String p_name, String description, float price, int stock_quantity,
+	public DummyProduct(String p_name, String description, float price, int stock_quantity,
 			int psub_id, int b_id) {
 		super();
-		this.p_id = p_id;
 		this.p_name = p_name;
 		this.description = description;
 		this.price = price;
@@ -24,12 +23,6 @@ public class DummyProduct{
 		this.b_id = b_id;
 	}
 	
-	public int getP_id() {
-		return p_id;
-	}
-	public void setP_id(int p_id) {
-		this.p_id = p_id;
-	}
 	public String getP_name() {
 		return p_name;
 	}

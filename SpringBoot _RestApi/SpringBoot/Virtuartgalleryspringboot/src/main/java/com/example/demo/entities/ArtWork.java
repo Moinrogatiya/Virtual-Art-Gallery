@@ -23,11 +23,11 @@ public class ArtWork {
 	float weight;
 	
 	@ManyToOne
-	@JoinColumn(name ="artist_id",referencedColumnName = "id")
+	@JoinColumn(name ="artist_id")
 	Artist artist;
 	
 	@ManyToOne
-	@JoinColumn(name ="sc_id")
+	@JoinColumn(name ="sub_cat_id")
 	ArtSubCategory subcat;
 
 	public int getArt_id() {

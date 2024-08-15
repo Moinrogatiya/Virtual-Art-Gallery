@@ -10,19 +10,20 @@ import com.example.demo.repositories.ProductRepository;
 
 @Service
 public class ProductService {
-	
+
 	@Autowired
 	ProductRepository prepo;
 
 	public Product addProduct(Product p) {
 		return prepo.save(p);
 	}
-	
-
 
 	public List<Product> getAllProduct() {
-		// TODO Auto-generated method stub
 		return prepo.findAll();
+	}
+
+	public Product getProductById(int pId) {
+		return prepo.findById(pId).get();
 	}
 
 }

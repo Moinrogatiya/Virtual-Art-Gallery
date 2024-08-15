@@ -40,7 +40,6 @@ public class ProductController {
 		PsubCategory psc = pscService.getProductSubCategoryById(psId);
 		
 		Product p = new Product();
-		p.setP_id(dproduct.getP_id());
 		p.setP_name(dproduct.getP_name());
 		p.setDescription(dproduct.getDescription());
 		p.setPrice(dproduct.getPrice());
