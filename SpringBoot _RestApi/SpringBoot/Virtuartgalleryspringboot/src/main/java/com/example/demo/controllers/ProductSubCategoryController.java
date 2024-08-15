@@ -37,7 +37,6 @@ public class ProductSubCategoryController {
 		ProductCategory pc = pcatservice.getProductCategoryById(pcatId);
 		
 		PsubCategory psc = new PsubCategory();
-		psc.setPsub_id(dpsc.getPsub_id());
 		psc.setPsub_name(dpsc.getPsub_name());
 		psc.setDescription(dpsc.getDescription());
 		psc.setPcat(pc);

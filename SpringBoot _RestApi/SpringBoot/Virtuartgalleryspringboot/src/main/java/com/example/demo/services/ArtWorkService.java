@@ -24,4 +24,8 @@ public class ArtWorkService {
 		return false;
 		}
 	}
+
+	public ArtWork getArtworkById(int artworkId) {
+		return artworkRepo.findById(artworkId).get();
+	}
 }

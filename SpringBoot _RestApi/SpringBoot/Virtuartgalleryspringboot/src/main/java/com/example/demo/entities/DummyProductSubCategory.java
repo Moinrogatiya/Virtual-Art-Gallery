@@ -1,7 +1,7 @@
 package com.example.demo.entities;
 
 public class DummyProductSubCategory {
-	int psub_id;
+	
 	String psub_name;
 	String description;
 	int pcat_id;
@@ -10,20 +10,11 @@ public class DummyProductSubCategory {
 		super();
 	}
 
-	public DummyProductSubCategory(int psub_id, String psub_name, String description, int pcat_id) {
+	public DummyProductSubCategory(String psub_name, String description, int pcat_id) {
 		super();
-		this.psub_id = psub_id;
 		this.psub_name = psub_name;
 		this.description = description;
 		this.pcat_id = pcat_id;
-	}
-
-	public int getPsub_id() {
-		return psub_id;
-	}
-
-	public void setPsub_id(int psub_id) {
-		this.psub_id = psub_id;
 	}
 
 	public String getPsub_name() {

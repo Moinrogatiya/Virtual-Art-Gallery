@@ -2,7 +2,6 @@ package com.example.demo.entities;
 
 public class DummyArtSubCategory {
 
-	int sc_id;
 	String sc_name;
 	String description;
 	int acat_id;
@@ -11,20 +10,11 @@ public class DummyArtSubCategory {
 		super();
 	}
 
-	public DummyArtSubCategory(int sc_id, String sc_name, String description, int acat_id) {
+	public DummyArtSubCategory(String sc_name, String description, int acat_id) {
 		super();
-		this.sc_id = sc_id;
 		this.sc_name = sc_name;
 		this.description = description;
 		this.acat_id = acat_id;
-	}
-
-	public int getSc_id() {
-		return sc_id;
-	}
-
-	public void setSc_id(int sc_id) {
-		this.sc_id = sc_id;
 	}
 
 	public String getSc_name() {

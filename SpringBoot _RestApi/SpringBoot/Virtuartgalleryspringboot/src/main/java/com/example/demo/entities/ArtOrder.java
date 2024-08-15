@@ -22,11 +22,18 @@ public class ArtOrder {
 	
 	@Column(name = "aor_date")
 	Date aor_date;
+	
 	int  payment_status;
+	
 	int order_status;
 	
 	@OneToOne
-	@JoinColumn
+	@JoinColumn(name = "artwork_id")
+	ArtWork artwork;
+	
+	
+	@OneToOne
+	@JoinColumn(name = "user_id")
 	User user;
 
 	public int getAor_id() {
@@ -68,9 +75,13 @@ public class ArtOrder {
 	public void setUser(User user) {
 		this.user = user;
 	}
-	
-	
-	
 
+	public ArtWork getArtwork() {
+		return artwork;
+	}
+
+	public void setArtwork(ArtWork artwork) {
+		this.artwork = artwork;
+	}	
 	
 }

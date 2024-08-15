@@ -42,7 +42,6 @@ public class ArtSubCategoryController {
 		 ArtCategory ac = artCategoryService.getById(catId);
 		 
 		 ArtSubCategory asc = new ArtSubCategory();
-		 asc.setSc_id(dasc.getSc_id());
 		 asc.setSc_name(dasc.getSc_name());
 		 asc.setDescription(dasc.getDescription());
 		 asc.setAcat(ac);
