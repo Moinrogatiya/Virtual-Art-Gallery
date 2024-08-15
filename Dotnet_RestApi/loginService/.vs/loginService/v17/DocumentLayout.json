@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\virtual_art_gallerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\virtual_art_gallerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\userloginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\userloginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|c:\\users\\moin\\desktop\\virtual-art-gallery\\dotnet\\loginservice\\userloginservice\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B898A768-3906-4747-A943-475DF0DDAE9C}|UserLoginService\\UserLoginService.csproj|solutionrelative:userloginservice\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Area.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Area.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:30:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Artist.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:30:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\City.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\City.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\City.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:30:18.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\Role.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:29:55.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\User.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:27:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Program.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Program.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Program.cs",
+              "RelativeToolTip": "UserLoginService\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAApwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:40:28.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "UserLoginService\\Controllers\\UserManagementController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAIAwwE8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:58:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "virtual_art_galleryContext.cs",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\virtual_art_galleryContext.cs",
+              "RelativeDocumentMoniker": "UserLoginService\\Models\\virtual_art_galleryContext.cs",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\Models\\virtual_art_galleryContext.cs",
+              "RelativeToolTip": "UserLoginService\\Models\\virtual_art_galleryContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:09:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginService.csproj",
+              "DocumentMoniker": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\UserLoginService.csproj",
+              "RelativeDocumentMoniker": "UserLoginService\\UserLoginService.csproj",
+              "ToolTip": "C:\\Users\\MOIN\\Desktop\\Virtual-Art-Gallery\\Dotnet\\loginService\\UserLoginService\\UserLoginService.csproj",
+              "RelativeToolTip": "UserLoginService\\UserLoginService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T03:29:07.621Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
