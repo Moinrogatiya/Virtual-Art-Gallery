@@ -1,0 +1,72 @@
+/* components/ArtistPage.css */
+
+.container {
+    max-width: 1200px;
+  }
+  
+  .website-name {
+    font-family: "Arial", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    position: relative;
+  }
+  
+  .website-underline {
+    width: 50%;
+    margin: 0.5rem auto 1rem;
+    border: 2px solid #007bff;
+  }
+  
+  .artist-info {
+    font-size: 1.2rem;
+  }
+  
+  .search-logout input {
+    max-width: 300px;
+  }
+  
+  .card {
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
+  .list-group-item {
+    font-size: 0.9rem;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
+  @media (max-width: 767px) {
+    .search-logout {
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 15px;
+    }
+  
+    .website-name {
+      font-size: 1.8rem;
+    }
+  
+    .website-underline {
+      width: 70%;
+    }
+  }
+  
+
+ 
